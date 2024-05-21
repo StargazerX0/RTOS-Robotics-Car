@@ -1,0 +1,10 @@
+void initWheelPWM(void);
+void forward(void);
+void forwardFullSpeed(void);
+void forwardSlowSpeed(void);
+void back(void);
+void stop(void);
+void rightTurn(void);
+void sharpRightTurn(void);
+void leftTurn(void);
+void sharpLeftTurn(void);
